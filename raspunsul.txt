@@ -1,1 +1,2 @@
 cipi zice 1+1=2
+cipi si-a schimbat parerea, 1+1 = 2.0
