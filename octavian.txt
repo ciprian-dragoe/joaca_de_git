@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+portocala
+Salut Petrut!
+=======
 portocala mecanica
+>>>>>>> 12b321da96d64f29737deea8dcc2f638267450ec
