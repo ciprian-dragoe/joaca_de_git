@@ -1,15 +1,3 @@
 cipi zice 1+1=2
-<<<<<<< HEAD
-<<<<<<< HEAD
-1+1 = 10.1001
-=======
 am ales sa sterg si raspunsul lui Gina si raspunsul meu
-<<<<<<< HEAD
->>>>>>> 4ebe2a923775a7e43c9451b68aa1f99c37edd7ec
-=======
-si petrut a fost aici
-De ce nu merge?!?!
->>>>>>> 2eb8b1ec727a98d9421777f28dab79810040a3d1
-=======
-raspuns Horatiu
->>>>>>> 04ec412b761803538d39fd4adabc07bb78a97595
+
