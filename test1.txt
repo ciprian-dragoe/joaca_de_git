@@ -1,4 +1,4 @@
 adaug ceva
 nou
-uar am modificat
+doi am pus ceva diferit
 din main modificat
