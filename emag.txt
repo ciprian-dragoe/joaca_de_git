@@ -1,0 +1,3 @@
+masina 2999
+paine 11
+masa 30
