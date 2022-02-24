@@ -1,8 +1,0 @@
-salut numele meu este ciprian
-text in minus si in plus
-Eu am modificat aici
-ne - modifcare modificare
-
-pana acolo dar si pana aici
-
-git pull origin main
