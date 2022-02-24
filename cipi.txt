@@ -7,4 +7,8 @@ alta modificare
 
 pana acolo dar si pana aici
 
+<<<<<<< HEAD
 Modifs here pls
+=======
+Calin A Fost Aici :)
+>>>>>>> 5581523f1ae547965de5479fa8166ccba118ce11
