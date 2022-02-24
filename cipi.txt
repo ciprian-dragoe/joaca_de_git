@@ -1,5 +1,6 @@
 salut numele meu este ciprian
 text in minus si in plus
 
-ne - modifcare
+ne - modifcare modificare
+
 pana acolo dar si pana aici
