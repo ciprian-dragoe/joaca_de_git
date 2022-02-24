@@ -1,5 +1,5 @@
 salut numele meu este ciprian
-text in minus
+text in minus si in plus
 
 
-pana acolo
+pana acolo dar si pana aici
