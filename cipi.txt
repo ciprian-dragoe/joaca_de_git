@@ -1,2 +1,8 @@
 salut numele meu este ciprian
+<<<<<<< HEAD
 Jamila are cele mai bune retete
+=======
+krrrrrrrrrrrr
+si imi place fotbalul
+un text la sfarsit
+>>>>>>> 944a5ac186b6e9d218e4b941f288a7af4eb9771d
