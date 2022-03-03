@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+salut numele meu este ciprian
+random txt
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 salut numele meu este ciprian
 text la nimereala!!
@@ -40,5 +44,10 @@ vand ceapa 5 lei
 >>>>>>> 3dae2e3609536d235b41f0976220b590df35dd9a
 >>>>>>> 407e08b29469dc9f1498d9a79b7a6371d78346eb
 
+<<<<<<< HEAD
 Noaptea Moet cu femeia , ziua hotdogi la Ikea
 Nu e frumos sa stergi contributiile celorlalti colegi , Ana !
+=======
+
+>>>>>>> 63acdede4f124a4f5c4d0036760399d6f7b389c6
+>>>>>>> a5b682eeab341777b121165484c5faebeb7c4ab4
