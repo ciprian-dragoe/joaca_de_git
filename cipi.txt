@@ -1,10 +1,28 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 salut numele meu este ciprian
 text la nimereala!!
 =======
+=======
+Buna ziua vand ceapa 5 lei kg.
+>>>>>>> 407e08b29469dc9f1498d9a79b7a6371d78346eb
 un text la nimereala
 un al2lea text la nimereala
 salut numele meu este ciprian
+<<<<<<< HEAD
+Jamila are cele mai bune retete
+=======
+krrrrrrrrrrrr
 si imi place fotbalul
 un text la sfarsit
+<<<<<<< HEAD
 >>>>>>> 65c7ef47cfa1b07126447e50918b37b88f151b81
+=======
+<<<<<<< HEAD
+vand ceapa 5 lei
+=======
+>>>>>>> 944a5ac186b6e9d218e4b941f288a7af4eb9771d
+>>>>>>> 3dae2e3609536d235b41f0976220b590df35dd9a
+>>>>>>> 407e08b29469dc9f1498d9a79b7a6371d78346eb
+
+vand cartofi ieftini
