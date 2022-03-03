@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 un text la nimereala
 un al2lea text la nimereala
-=======
 salut numele meu este ciprian
 si imi place fotbalul
 un text la sfarsit
->>>>>>> 4268a4b7643695419c9475136daf90a9e4ea680f
