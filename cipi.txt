@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 salut numele meu este ciprian
 Jamila are cele mai bune retete
+=======
+un text la nimereala
+un al2lea text la nimereala
+salut numele meu este ciprian
+si imi place fotbalul
+un text la sfarsit
+>>>>>>> f461a00a820ab4c852cae47039b66121034f7553
