@@ -1,2 +1,7 @@
 salut numele meu este ciprian
+<<<<<<< HEAD
 e 8 lei benzina
+=======
+si imi place fotbalul
+un text la sfarsit
+>>>>>>> 4268a4b7643695419c9475136daf90a9e4ea680f
